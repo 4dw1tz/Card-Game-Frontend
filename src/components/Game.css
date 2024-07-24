@@ -1,0 +1,15 @@
+.game {
+    text-align: center;
+  }
+  
+  .card-container {
+    position: relative;
+    width: 100px;
+    height: 150px;
+    margin: 0 auto 20px;
+  }
+  
+  .actions {
+    display: flex;
+    justify-content: space-around;
+  }
